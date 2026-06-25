@@ -19,15 +19,15 @@ Clique em uma peça sua para selecioná-la. As casas disponíveis para mover fic
 - Guardas só se movem para casas vazias adjacentes.
 - Movimentos na diagonal não são permitidos.
 
-##Estado inicial do tabuleiro
+## Estado inicial do tabuleiro
 
-M . . . .
-. . . . .
-. . M . .
-. . . . .
-. . . . M
+- M . . . .
+- . . . . . 
+- . . M . .
+- . . . . .
+- . . . . M
 
 
-##Tecnologias
+## Tecnologias
 
 `HTML5 Canvas e JavaScript puro, sem dependências externas.`
